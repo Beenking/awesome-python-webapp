@@ -16,8 +16,8 @@ env.user = 'michael'
 env.sudo_user = 'root'
 env.hosts = ['192.168.0.3']
 
-db_user = 'www-data'
-db_password = 'www-data'
+db_user = 'root'
+db_password = '111111'
 
 _TAR_FILE = 'dist-awesome.tar.gz'
 
